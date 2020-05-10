@@ -4,3 +4,10 @@ discord:
   channelID: 572686071771430922
   CaptchaChanID: 475018504911716352
   ownerID: 386761001808166912
+
+config:
+  timeout: 20
+  warnPeriod: 7200
+  warnPeriodText: "2hrs"
+  gameName: "Bot testing!!!"
+  debug: False
